@@ -118,5 +118,36 @@ lessons you struggled with below:
 - 11/20/19 - No questions or comments.
 
 ### Introduction to Basic CSS
+**Change the Color of Text**
+- 11/22/19 - No questions.  Quick comment, other
+courses emphasis to not use inline style attributes
+and instead use a separate CSS file.  In practice,
+are inline style tags used at all?
 
+**Use CSS Selectors to Style Elements**
+- 11/22/19 - same comment as above.  A separate style
+section cleans up the code a bit, but not practical for
+a lot of styling.  Perhaps for a small static site.
+
+**Use a CSS Class to Style an Element**
+- 11/22/19 - Building towards using a separate css file
+using class names to apply a style.  Always have to 
+remind myself that '.' denotes a class and '#' denotes
+and id.
+
+**Style Multiple Elements with a CSS Class**
+- 11/22/19 - Shows how powerful and flexible CSS is when
+combined with classes.
+
+**Change the Font Size of an Element**
+- 11/22/19 - No questons or comments.
+
+**Set the Font Family of an Element**
+- 11/22/19 - Googled standard OS fonts and found this:
+https://www.granneman.com/webdev/coding/css/fonts-and-formatting/default-fonts
+
+**Side note - love todays quote on freecodecamp**
+If you can't fly then run, if you can't run then walk, 
+if you can't walk then crawl, but whatever you do you have to keep moving forward.
+Martin Luther King Jr.
 
