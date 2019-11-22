@@ -288,10 +288,84 @@ https://stackoverflow.com/questions/2720618/valid-order-for-attributes-of-input-
 - 11/22/19 - No questions or comments - lots to learn!
 
 **Use a media query to change a variable**
-- 11/21/19 - An odd way to introduce the term 'Media Query'
+- 11/22/19 - An odd way to introduce the term 'Media Query'
   I think it would leave the novice (including me) wondering
   what a media query was.  I've since learned more about them
   in regards to responsive web design.
+
+### Introduction to the CSS Flexbox Challenges
+
+**Use display: flex to Position Two Boxes**
+- 11/22/19 - No questions or comments - yet.
+
+**Add Flex Superpowers to the Tweet EmbedPassed**
+- 11/22/19 - No questions or comments.
+
+**Use the flex-direction Property to Make a RowPassed**
+- 11/22/19 - No questions or comments.
+
+**Apply the flex-direction Property to Create Rows in the Tweet Embed**
+- 11/22/19 - Didn't notice big changes to the display after
+  running this test.
+
+**Use the flex-direction Property to Make a Column**
+- 11/22/19 - used column property to stack boxes vertically.
+
+**Apply the flex-direction Property to Create a Column in the Tweet Embed**
+- 11/22/19 - applied column property to tweet example.
+
+**Align Elements Using the justify-content Property**
+- 11/22/19 - liked the image, helps solidify the flex concepts:
+  https://www.w3.org/TR/css-flexbox-1/images/flex-direction-terms.svg
+  Lots of material in this particular lesson.  Adding a bookmark to it
+  for future reference.  I've battled a bit with alignmnent, especially 
+  aligning elements vertically within a container.  This should help.
+
+**Use the justify-content Property in the Tweet Embed**
+- 11/22/19 - No questions or comments.
+
+**Align Elements Using the align-items Property**
+- 11/22/19 - good to remember that justify-content works on main axis,
+  while align-items works on cross-axis.
+
+**Use the align-items Property in the Tweet Embed**
+- 11/22/19 - No questions or comments.
+
+**Use the flex-wrap Property to Wrap a Row or Column**
+- 11/22/19 - Will take some practice to 'wrap' my head around this 
+  concept....(sorry!).  I assume with the default setting of no wrap, 
+  new items added to the container will get smaller and smaller as 
+  they fill it up.
+
+**Use the flex-shrink Property to Shrink Items**
+- 11/22/19 - Addresses my question above - sort of.  The number system
+  within flex-shrink lets individual items shrink in different proportions.
+
+**Use the flex-grow Property to Expand Items**
+- 11/22/19 - While the flex-shrink property only kicks in when the 
+  parent container fills up or shrinks, the flex-grow property
+  activates when the container expands.
+
+**Use the flex-basis Property to Set the Initial Size of an Item**
+- 11/22/19 - Not clear here if flex basis (which sets the initial size)
+  and flex-shrink or flex-grow, can or should all be included in the
+  page styling?  Experimented a bit - and looks like they can all work
+  in tandem to customize display of elements at various container sizes.
+
+**Use the flex Shorthand Property**
+- 11/22/19 - kind of answers my questions from the previous lesson.
+
+**Use the order Property to Rearrange Items**
+- 11/22/19 - with just two elements, the order property has the same
+  effect as 'row-reverse' or 'column-reverse' of flex-direction property.
+  although, that is set on the container vs. the element within the
+  container.
+
+**Use the align-self Property**
+- 11/22/19 - Allows individual elements within a container to have unique
+  alignment properties.
+
+### CSS Grid Challenges
 
 
 
