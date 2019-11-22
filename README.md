@@ -117,6 +117,6 @@ lessons you struggled with below:
 **Define the Head and Body of an HTML Document**
 - 11/20/19 - No questions or comments.
 
-
+### Introduction to Basic CSS
 
 
