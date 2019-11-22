@@ -144,10 +144,41 @@ combined with classes.
 
 **Set the Font Family of an Element**
 - 11/22/19 - Googled standard OS fonts and found this:
-https://www.granneman.com/webdev/coding/css/fonts-and-formatting/default-fonts
+  https://www.granneman.com/webdev/coding/css/fonts-and-formatting/default-fonts
 
 **Side note - love todays quote on freecodecamp**
-If you can't fly then run, if you can't run then walk, 
-if you can't walk then crawl, but whatever you do you have to keep moving forward.
-Martin Luther King Jr.
+  If you can't fly then run, if you can't run then walk, 
+  if you can't walk then crawl, but whatever you do you 
+  have to keep moving forward.
+  Martin Luther King Jr.
+
+**Import a Google Font**
+- 11/22/19 - Was curious if there were other free sources of 
+  fonts and found this:
+  https://blog.prototypr.io/top-10-resources-for-great-web-fonts-2355121f1273
+
+**Specify How Fonts Should Degrade**
+- 11/22/19 - Noticed that the google font worked with and 
+  without "" in the style tag.
+
+**Size Your Images**
+- 11/22/19 - Triggered a question re: proper order of html tag attributes,
+there isn't really one per stack overflow:
+https://stackoverflow.com/questions/2720618/valid-order-for-attributes-of-input-type-tag/2720645
+
+**Add Borders Around Your Elements**
+- 11/22/19 - Used "border: 10px green solid"; instead.
+
+**Add Rounded Corners with border-radius**
+- 11/22/19 - No questions or comments.
+
+**Make Circular Images with a border-radiusPassed**
+- 11/22/19 - No questions or comments.
+
+**Give a Background Color to a div Element**
+- 11/22/19 - No questions - divs were a mystery at first, but
+  when CSS and JavaScript are added to the mix, they make a lot of
+  sense as containers for elements.
+
+
 
