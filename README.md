@@ -180,5 +180,126 @@ https://stackoverflow.com/questions/2720618/valid-order-for-attributes-of-input-
   when CSS and JavaScript are added to the mix, they make a lot of
   sense as containers for elements.
 
+**Set the id of an Element**
+- 11/22/19 - No questions or comments.
+
+**Adjust the Padding of an Element**
+- 11/22/19 - No questions or comments.
+
+**Adjust the Margin of an ElementPassed**
+- 11/22/19 - No questions or comments.
+
+**Add a Negative Margin to an Element**
+- 11/22/19 - This was new information to me, I didn't realize that
+  setting a margin to a negative would increase the size of the
+  element.  Interesting - will try and think of some use cases.
+
+**Add Different Padding to Each Side of an Element**
+- 11/22/19 - No questions or comments.
+
+**Add Different Margins to Each Side of an Element**
+- 11/22/19 - No questions or comments.
+
+**Use Clockwise Notation to Specify the Padding of an Element**
+- 11/22/19 - No questions or comments.
+
+**Use Clockwise Notation to Specify the Margin of an Element**
+- 11/22/19 - No questions or comments.
+
+**Use Attribute Selectors to Style Elements**
+- 11/22/19 - Don't think I've seen this before.  Cool that
+  you can use attributes & values to style elements.  Is
+  there a benefit to using this vs. Id or Class? or is it
+  personal preference?
+
+**Understand Absolute versus Relative UnitsPassed**
+- 11/22/19 - Good information.  Didn't realize that 'em' only
+  relates to fonts and font size, and is relative to the parent
+  element font.  Confusing to me that the exercise uses em on 
+  padding, when the notes say its a font-based property?
+  Looking forward to 'rem' discussion/lesson in
+  Responsive Web Design Principles' section.
+
+**Style the HTML Body Element**
+- 11/22/19 - No questions or comments.
+
+**Inherit Styles from the Body Element**
+- 11/22/19 - No questions or comments.
+
+**Prioritize One Style Over Another**
+- 11/22/19 - Good introduction to specificity.
+
+**Override Styles in Subsequent CSS**
+- 11/22/19 - Good to know that the class order within the element
+  doesn't matter.  Just that the last one declared in the style tag
+  wins.
+
+**Override Class Declarations by Styling ID Attributes**
+- 11/22/19 - in specificity hierarchy - id wins over class.
+
+**Override Class Declarations with Inline Styles**
+- 11/22/19 - inline styles win over id.
+
+**Override All Other Styles by using ImportantPassed**
+- 11/22/19 - No questions or comments.
+
+**Use Hex Code for Specific Colors**
+- 11/22/19 - Good quick overview of base 16 (hexidecimal) numbers.  
+  Lots of cool hex color resources out there:
+  https://www.hexcolortool.com/
+
+**Use Hex Code to Mix Colors**
+- 1/22/19 - No questions or comments.
+
+**Use Abbreviated Hex Code**
+- 1/22/19 - No questions or comments.
+
+**Use RGB values to Color Elements**
+- 11/22/19 - Is it developer preference when it comes to Hex, RGB, or
+  color name?
+
+**Use RGB to Mix Colors**
+- 11/22/19 - No questions or comments.
+
+**Use CSS Variables to change several elements at once**
+- 11/22/19 - No questions or comments.
+
+**Create a custom CSS Variable**
+- 11/22/19 - the '--' syntax for custom CSS variables was new
+  material for me.
+
+**Use a custom CSS Variable**
+- 11/22/19 - Failed on first submit on this, didn't use the 
+  var(--penguin-skin) sytax (left out 'var').
+
+**Attach a Fallback value to a CSS Variable**
+- 11/22/19 - No questions or comments.
+
+**Improve Compatibility with Browser Fallbacks**
+- 11/22/19 - Good to know.  Why does it seem like Internet
+  Explorer is always the least compatible browser :)
+
+**Inherit CSS Variables**
+- 11/22/19 - Wasn't familiar with the inheritance within CSS 
+  or the :root psuedo-class.  Good information, but not enough
+  information about :root, and how/when its used.
+
+**Change a variable for a specific area**
+- 11/22/19 - No questions or comments - lots to learn!
+
+**Use a media query to change a variable**
+- 11/21/19 - An odd way to introduce the term 'Media Query'
+  I think it would leave the novice (including me) wondering
+  what a media query was.  I've since learned more about them
+  in regards to responsive web design.
+
+
+
+
+
+
+
+
+
 
 
