@@ -433,6 +433,206 @@ https://stackoverflow.com/questions/2720618/valid-order-for-attributes-of-input-
 **Create Grids within Grids**
 - 11/25/19 - No questions or comments - other than its going to take a while and     some practice for this to sink in well.  Looks like there is some debate on        which is better CSS Grid vs Flexbox.  Is there an industry standard or general     preference?
 
+## Introduction to JavaScript
+
+**Comment Your JavaScript Code**
+- 11/25/19 - No questions or comments.
+
+**Declare JavaScript Variables**
+- 11/25/19 - No questions or comments - I think var is being depricated w ES6.
+
+**Storing Values with the Assignment Operator**
+- 11/25/19 - No questions or comments.
+
+**Initializing Variables with the Assignment Operator**
+- 11/25/19 - No questions or comments.
+
+**Understanding Uninitialized Variables**
+- 11/25/19 - No questions or comments.
+
+**Understanding Case Sensitivity in Variables**
+- 11/25/19 - No questions or comments.
+
+**Add Two Numbers with JavaScript**
+- 11/25/19 - No questions or comments.
+
+**Subtract One Number from Another with JavaScript**
+- 11/25/19 - No questions or comments.
+
+**Multiply Two Numbers with JavaScript**
+- 11/25/19 - No questions or comments.
+
+**Divide One Number by Another with JavaScript**
+- 11/25/19 - No questions or comments.
+
+**Increment a Number with JavaScript**
+- 11/25/19 - Used a lot when looping through an iterable.
+
+**Decrement a Number with JavaScript**
+- 11/25/19 - No questions or comments.
+
+**Create Decimal Numbers with JavaScript**
+- 11/25/19 - No questions or comments.  Was interesting to follow
+  the link and see this: "On February 25, 1991, a loss of significance 
+  in a MIM-104 Patriot missile battery prevented it from intercepting 
+  an incoming Scud missile in Dhahran, Saudi Arabia, contributing to 
+  the death of 28 soldiers from the U.S. Army's 14th Quartermaster 
+  Detachment".
+
+**Multiply Two Decimals with JavaScript**
+- 11/25/19 - No questions or comments.
+
+**Divide One Decimal by Another with JavaScript**
+- 11/25/19 - No questions or comments.
+
+**Finding a Remainder in JavaScript**
+- 11/25/19 - Never heard the distinction between the modulus operator
+  and the remainder operator.  Found a number of stack overflow posts
+  that explain the diff between remainder and modulus.
+
+**Compound Assignment With Augmented Addition**
+- 11/25/19 - I've never heard the term 'Augmented Addition" but I have
+  seen and used the "+=" syntax.
+
+**Compound Assignment With Augmented Subtraction**
+- 11/25/19 - No questions or comments.
+
+**Compound Assignment With Augmented Multiplication**
+- 11/25/19 - No questions or comments.
+
+**Compound Assignment With Augmented Division**
+- 11/25/19 - No questions or comments.
+
+**Declare String Variables**
+- 11/25/19 - No questions or comments.
+
+**Escaping Literal Quotes in Strings**
+- 11/25/19 - No questions or comments.
+
+**Quoting Strings with Single Quotes**
+- 11/25/19 - No questions or comments.
+
+**Escape Sequences in Strings**
+- 11/25/19 - Some trial and error on this one.  Initially missed the
+  \n character between SecondLine and ThridLine, also had some spaces 
+  causing issues.  Used VSCode to sort it out.
+
+**Concatenating Strings with Plus Operator**
+- 11/25/19 - No questions or comments.
+
+**Concatenating Strings with the Plus Equals Operator**
+- 11/25/19 - New material here - I've not seen the '+=' used to 
+  concatenate strings.
+
+**Constructing Strings with Variables**
+- 11/25/19 - No questions or comments - can be replaced with ES6
+  string literals.
+
+**Appending Variables to Strings**
+- 11/25/19 - Again, haven't seen '+=' used this way before.  Had to
+  take a hint to figure out what they were asking for.  I was trying
+  to do everyting on two lines, rather than using the '+= on the third
+  line.
+
+**Find the Length of a String**
+- 11/25/19 - No questions or comments.  More familiar with len().
+
+**Use Bracket Notation to Find the First Character in a String**
+- 11/25/19 - No questions or comments.
+
+**Understand String Immutability**
+- 11/25/19 - No questions or comments.
+
+**Use Bracket Notation to Find the Nth Character in a String**
+- 11/25/19 - No quesitons or comments.
+
+**Use Bracket Notation to Find the Last Character in a String**
+- 11/25/19 - Thought [-1] could be used as an index of a string to
+  get the last character - but it returns undefined in the console - 
+  the slice function supports -1 to get last character.
+
+**Use Bracket Notation to Find the Nth-to-Last Character in a String**
+- 11/25/19 - No questions or comments.
+
+**Word Blanks**
+- 11/25/19 - No questions - be sure to include spaces where needed!
+
+**Store Multiple Values in one Variable using JavaScript Arrays**
+- 11/25/19 - No questions or comments.
+
+**Nest one Array within Another Array**
+- 11/25/19 - No questions.  Can access an element within a nested array
+  like myArray[0][1].
+
+**Access Array Data with Indexes**
+- 11/25/19 - No questions or comments.
+
+**Modify Array Data With Indexes**
+- 11/25/19 - No questions or comments.
+
+**Access Multi-Dimensional Arrays With Indexes**
+- 11/25/19 - No questions or comments.
+
+**Manipulate Arrays With push()**
+- 11/25/19 - No questions or comments.
+
+**Manipulate Arrays With pop()**
+- 11/25/19 - No questions or comments.
+
+**Manipulate Arrays With shift()**
+- 11/25/19 - No questions or comments.
+
+**Manipulate Arrays With unshift()**
+- 11/25/19 - shift removes from beginning, pop from end
+  unshift adds to beginning, push adds to end.
+
+**Shopping List**
+- 11/25/19 - No questions or comments.
+
+**Write Reusable JavaScript with Functions**
+- 11/25/19 - Forgot to call the function after I created
+  it, so had an error initially.
+
+**Passing Values to Functions with Arguments**
+- 11/25/19 - No questions or comments.
+
+**Global Scope and Functions**
+- 11/25/19 - I didn't realize that variables created within
+  functions that didn't use the 'var' keyword were automatically
+  considered global variables.  
+
+**Local Scope and Functions**
+- 11/25/19 - No questions or comments.
+
+**Global vs. Local Scope in Functions**
+- 11/25/19 - No question or comments.
+
+**Return a Value from a Function with Return**
+- 11/25/19 - No questions or comments.
+
+**Understanding Undefined Value returned from a Function**
+- 11/25/19 - I didn't know that functions without a return 
+  statement, in fact returned 'undefined'.
+
+**Assignment with a Returned Value**
+- 11/25/19 - Starting to get a little challenging.  I've 
+  not come across scenarios where a variable is updated
+  with a function call - interesting!
+
+**Stand in Line**
+- 11/25/19 - Took some time to work through this on, particularly
+  storing the shifted variable and returning it within the function.
+  Kind of a neat visual of a 'queue'.
+
+**Understanding Boolean Values**
+- 11/25/19 - No questions or comments.
+
+
+
+
+
+
+
 
 
 
