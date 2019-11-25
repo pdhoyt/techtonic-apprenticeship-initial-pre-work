@@ -367,8 +367,71 @@ https://stackoverflow.com/questions/2720618/valid-order-for-attributes-of-input-
 
 ### CSS Grid Challenges
 
+**Create Your First CSS Grid**
+- 11/25/19 - No questions or comments.
 
+**Add Columns with grid-template-columns**
+- 11/25/19 - No questions or comments.
 
+**Add Rows with grid-template-rows**
+- 11/25/19 - No questions or comments.
+
+**Use CSS Grid units to Change the Size of Columns and Rows**
+- 11/25/19 - First time I've seen the 'fr' to set a column or row    to a fraction of the available space.  Also interesting that in    a single command, you can combine auto, px, % and fr, as in the    example - "grid-template-columns: auto 50px 10% 2fr 1fr".  Makes   grids very flexible and a little confusing.
+
+**Create a Column Gap Using grid-column-gap**
+- 11/25/19 - With grid-column-gap present, I assume that the fr      and % settings for columns - the gap is included in the            calculation automatically.  BTW - VS code pointed out that         grid-column-gap property is obsolete - replaced by column-gap.     Also, noticed that '%' works as well, although not clear if 'fr'   or 'auto' work.
+
+**Create a Row Gap using grid-row-gap**
+- 11/25/19 - same comments/observations as with column-gap.
+
+**Add Gaps Faster with grid-gap**
+- 11/25/19 - Nice shortcut, that accepts a single value, or two      values, first for rows, second for columns.  Sounds like this      property has been replaced by 'gap' but still works, like the      others.
+
+**Use grid-column to Control Spacing**
+- 11/25/19 - Not clear to me on this one why 'grid-column: 2/4'      works on a 3 x 2 grid.
+
+**Use grid-row to Control Spacing**
+- 11/25/19 - same comment - doesn't make sense.  Need to do some     additional reading on this one.
+
+**Align an Item Horizontally using justify-self**
+- 11/25/19 - No questions or comments.
+
+**Align an Item Vertically using align-self**
+- 11/25/19 - No questions or comments.
+
+**Align All Items Horizontally using justify-items**
+- 11/25/19 - Setting on the container element when all items will    have the same justification.
+
+**Align All Items Vertically using align-items**
+- 11/25/19 - Setting on the container element when all items will    have the same alignment.
+
+**Divide the Grid Into an Area Template**
+- 11/25/19 - So this groups cells together, but on its own,          doesn't impact how the grid appears in html?
+
+**Place Items in Grid Areas Using the grid-area Property**
+- 11/25/19 - Assign items to a grid area defined in previous         section.  Answers my question in the previous lesson.  Template    has to be called using the grid-area property.
+
+**Use grid-area Without Creating an Areas Template**
+- 11/25/19 - Like the grid-column/row properties using numbers,      this is confusing to me.  Prefer the area-template property.       Had to request the hint on this: The grid-area takes values in     the following format horizontal line to start at / vertical line   to start at / horizontal line to end at / vertical line to end     at.
+
+**Reduce Repetition Using the repeat Function**
+- 11/25/19 - Easy way to replicate columns and rows with the same    properties.  Does would this interact with the HTML table          element?  Are they mutually exclusive options?
+
+**Limit Item Size Using the minmax Function**
+- 11/25/19 - No questions or comments.
+
+**Create Flexible Layouts Using auto-fill**
+- 11/25/19 - Another confusing setting - need to play around with various sizes of elements to better   understand how this works.
+
+**Create Flexible Layouts Using auto-fit**
+- 11/25/19 - This example made more sense - the difference between auto-fill and auto-fit.
+
+**Use Media Queries to Create Responsive Layouts**
+- 11/25/19 - Interested that there can be multiple media queries within the same     html document, triggered at different screen sizes.
+
+**Create Grids within Grids**
+- 11/25/19 - No questions or comments - other than its going to take a while and     some practice for this to sink in well.  Looks like there is some debate on        which is better CSS Grid vs Flexbox.  Is there an industry standard or general     preference?
 
 
 
