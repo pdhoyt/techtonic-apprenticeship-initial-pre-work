@@ -627,6 +627,186 @@ https://stackoverflow.com/questions/2720618/valid-order-for-attributes-of-input-
 **Understanding Boolean Values**
 - 11/25/19 - No questions or comments.
 
+**Use Conditional Logic with If Statements**
+- 11/26/19 - No questions or comments.
+
+**Comparison with the Equality Operator**
+- 11/26/19 - I know JS has a '===' operator that evaluates both equality 
+  and data type as well.  
+
+**Comparison with the Strict Equality Operator**
+- 11/26/19 - as mentioned above.  '===' does not perform a type conversion
+  as '==' does.
+
+**Practice comparing different values**
+- 11/26/19 - No questions or comments.
+
+**Comparison with the Inequality Operator**
+- 11/26/19 - No questions or comments.
+
+**Comparison with the Strict Inequality Operator**
+- 11/26/19 - I wasn't aware this existed.  Makes sense though, since
+  there is a strict equality operator.
+
+**Comparison with the Greater Than Operator**
+- 11/26/19 - No questions or comments.
+
+**Comparison with the Greater Than Or Equal To Operator**
+- 11/26/19 - No questions or comments.
+
+**Comparison with the Less Than Operator**
+- 11/26/19 - No questions or comments.
+
+**Comparison with the Less Than Or Equal To Operator**
+- 11/26/19 - No questions or comments.
+
+**Comparisons with the Logical And Operator**
+- 11/26/19 - With and, both (or all) of the conditions
+  must be true for the expression to evaluate as true.  Had
+  to re-run this one because I left in a stray closing bracket
+  after I removed the nested if statement.
+
+**Comparisons with the Logical Or Operator**
+- 11/26/19 - with or, if any of the conditions are false, the
+  the whole expression is false.
+
+**Introducing Else Statements**
+- 11/26/19 - No questions or comments.
+
+**Introducing Else If Statements**
+- 11/26/19 - No questions or comments.
+
+**Logical Order in If Else Statements**
+- 11/26/19 - No questions or comments.
+
+**Chaining If Else Statements**
+- 11/26/19 - No questions or comments.
+
+**Golf Code**
+- 11/26/19 - Nice challenge!  forces you to really think through
+  the function and the if/else statement!  Had to spend some time
+  debugging as my code was failing.  It was a simple '=' rather 
+  than a '==' in my initial if clause.  Also, minor issue, the
+  example didn't include an 'Albatross' which is a 2 on a par
+  5.  With this code, this would be counted as a hole in one,
+  which is incorrect.
+
+**Selecting from Many Options with Switch Statements**
+- 11/26/19 - No questions or comments.
+
+**Adding a Default Option in Switch Statements**
+- 11/26/19 - No questions or comments.
+
+**Multiple Identical Options in Switch Statements**
+- 11/26/19 - No questions.  Had to rerun my code once as I
+  used 'result' rather than 'answer' for my variable name.
+
+**Replacing If Else Chains with Switch**
+- 11/26/19 - Assume there are use cases where switch statements 
+  are preferred vs. if/else and vice versa?
+
+**Returning Boolean Values from Functions**
+- 11/26/19 - No questions or comments.
+
+**Return Early Pattern for Functions**
+- 11/26/19 - Noticed that both 'return;' and 'return undefined;'
+  passed in this case.
+
+**Counting Cards**
+- 11/26/19 - This one was a challenge.  Couldn't seem to get it 
+  to work in a switch/case format, so I used if/else if logic.  
+  Want to re-visit that one to see where I was going wrong.
+  Update - forgot the break statements.  Noticed that the
+  posted solution using switch ommitted a check for the 7-9
+  cards, which in hindsight makes sense, as they do not impact
+  the count.
+
+**Build JavaScript Objects**
+- 11/26/19 - No questions or comments.
+
+**Accessing Object Properties with Dot Notation**
+- 11/26/19 - Two options to access an objects properties.  '.' (dot)
+  notation or '[]' (bracket) notation.
+
+**Accessing Object Properties with Bracket Notation**
+- 11/26/19 - Good to know that if there is a space in the name, that
+  you must use bracket notation to retrieve the property.
+
+**Accessing Object Properties with Variables**
+- 11/26/19 - No questions or comments.
+
+**Updating Object Properties**
+- 11/26/19 - No questions or comments.
+
+**Add New Properties to a JavaScript Object**
+- 11/26/19 - No questions or comments.
+
+**Delete Properties from a JavaScript Object**
+- 11/26/19 - No questions or comments.
+
+**Using Objects for Lookups**
+- 11/26/19 - Had a little trouble on this one, was trying to
+  use .dot notation on the return statement, and kept getting 
+  an undefined.  When I switched to bracket notation it worked fine.
+
+**Testing Objects for Properties**
+- 11/26/19 - No questions or comments.
+
+**Manipulating Complex Objects**
+- 11/26/19 - No questions or comments.
+
+**Accessing Nested Objects**
+- 11/26/19 - No questions or comments.
+
+**Accessing Nested Arrays**
+- 11/26/19 - No questions or comments.
+
+**Record Collection**
+- 11/26/19 - **REALLY** struggled with this one.  Had my code to the point
+  where all test cases passed except one.  My tracks were not appending
+  to the array, but were overwriting each other.  I finally had to 
+  break down and look at the solution, after spending at least an hour
+  trying to troubleshoot.  Not sure I understand the line below:
+
+  collection[id][prop] = collection[id][prop] || [];
+
+  so this creates an empty array if it doesn't already exist?  Not clear
+  to me how this works...
+
+**Iterate with JavaScript While Loops**
+- 11/26/19 - No questions or comments.
+
+**Iterate with JavaScript For Loops**
+- 11/26/19 - No questions or comments.
+
+**Iterate Odd Numbers With a For Loop**
+- 11/26/19 - No questions or comments.
+
+**Count Backwards With a For Loop**
+- 11/26/19 - No questions or comments.
+
+**Iterate Through an Array with a For Loop**
+- 11/26/19 - No questions or comments.
+
+**Nesting For Loops**
+- 11/26/19 - Took a little bit to get this one, and to get the values
+  from the nested arrays and use them to create the product.
+
+**Iterate with JavaScript Do...While Loops**
+- 11/26/19 - No questions or comments.
+
+**Replace Loops using Recursion**
+
+
+
+
+
+
+
+
+
+
+
 
 
 
