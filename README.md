@@ -796,6 +796,59 @@ https://stackoverflow.com/questions/2720618/valid-order-for-attributes-of-input-
 - 11/26/19 - No questions or comments.
 
 **Replace Loops using Recursion**
+- 11/27/19 - A function that calls itself, that is a tough concept to 
+  understand.  Going review a few examples to help it sink in.
+
+**Profile Lookup**
+- 11/27/19 - Struggled with this one as well...Had to use the solution
+  after trying several approaches.  Need to work on nested arrays and nested
+  if statements to really understand how to pull data out with loops.
+
+**Generate Random Fractions with JavaScript**
+- 11/27/19 - No questions or comments.
+
+**Generate Random Whole Numbers with JavaScript**
+- 11/27/19 - No questions or comments.
+
+**Generate Random Whole Numbers within a Range**
+- 11/27/19 - Not sure I follow the math in this formula:
+  Math.floor(Math.random() * (myMin - myMax + 1)) + myMin
+
+**Use the parseInt Function**
+- 11/27/19 - No questions or comments.
+
+**Use the parseInt Function with a Radix**
+- 11/27/19 - Radix is a new term for me - just a base number specification?
+  Quick way to convert numbers between different bases.
+
+**Use the Conditional (Ternary) Operator**
+- 11/27/19 - No questions or comments.
+
+**Use Multiple Conditional (Ternary) Operators**
+- 11/27/19 - First time I've seen multiple ternary operators.
+
+**Use Recursion to Create a Range of Numbers**
+- 11/27/19 - Again struggled with this one - need some work with
+  recursion...very confusing.
+
+**Use Recursion to Create a Countdown**
+- 11/27/19 - See comments above - need a lot of work on recursion
+  for this to sink in - and more importantly recognize when it 
+  would apply to a situation and how to implement it.  Simply cut the 
+  answer into the console to pass it.
+
+## General Comments
+Even after several online Udemy courses - I still am struggling with 
+some key concepts:
+   - Arrays
+   - Nested ifs
+   - Recursion
+And, more generally, know when to use what tools.  Kind of frustrated
+that things aren't sinking in.  Will keep pressing on...
+
+## ES6 Challenges
+
+
 
 
 
