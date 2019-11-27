@@ -847,14 +847,126 @@ And, more generally, know when to use what tools.  Kind of frustrated
 that things aren't sinking in.  Will keep pressing on...
 
 Again I like today's quote (Encouraging after the frustration over the past couple of days...)
-"Twenty years from now you you will be more disappointed by the things that you didn't do 
+"Twenty years from now you will be more disappointed by the things that you didn't do 
  than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. 
  Catch the trade winds in your sails."
 -Mark Twain
 
 ## ES6 Challenges
 
+**Explore Differences Between the var and let Keywords**
+- 11/27/19 - No questions or comments.
 
+**Compare Scopes of the var and let Keywords**
+- 11/27/19 - No questions or comments.
+
+**Declare a Read-Only Variable with the const Keyword**
+- 11/17/19 - First time I've heard that variables declared with const are commonly capitalized.
+
+**Mutate an Array Declared with const**
+- 11/27/19 - No questions or comments.
+
+**Prevent Object Mutation**
+- 11/27/19 - First time I've heard/seen 'Object.freeze' function.
+
+**Use Arrow Functions to Write Concise Anonymous Functions**
+- 11/27/19 - No questions or comments.
+
+**Write Arrow Functions with Parameters**
+- 11/27/19 - No questions or comments.
+
+**Set Default Parameters for Your Functions**
+- 11/27/19 - No questions or comments.
+
+**Use the Rest Parameter with Function Parameters**
+- 11/27/19 - No questons or comments.
+
+**Use the Spread Operator to Evaluate Arrays In-Place**
+- 11/27/19 - No questions.  Had to google an do some trial and
+  error because the exercise was different enough than the 
+  example in the lesson.  No where in the lesson was the array
+  syntax of [...arr1] mentioned...
+
+**Use Destructuring Assignment to Extract Values from Objects**
+- 11/27/19 - No questions or comments.
+
+**Use Destructuring Assignment to Assign Variables from Objects**
+- 11/27/19 - No questions or comments.
+
+**Use Destructuring Assignment to Assign Variables from Nested Objects**
+- 11/27/19 - No questions or comments.
+
+**Use Destructuring Assignment to Assign Variables from Arrays**
+- 11/27/19 - This didn't make sense.
+
+**Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements**
+- 11/27/19 - This didn't make sense either - feeling very dense and overwhelmed
+  with some of this material....
+
+**Use Destructuring Assignment to Pass an Object as a Function's Parameters**
+- 11/27/19 - having to get hints and/or the answer on all of these destructuring
+  exercises.
+
+**Create Strings using Template Literals**
+- 11/27/19 - FINALLY - something i've seen and used before and makes sense!
+
+**Write Concise Object Literal Declarations Using Object Property Shorthand**
+- 11/27/19 - No questions or comments.
+
+**Write Concise Declarative Functions with ES6**
+- 11/27/19 - How is this different from an arrow function, when would you use one
+  vs. the other???  And they roll out the 'this' keyword without any explanation...
+  Got it to work, but not very confident I clearly understand what is going on.
+
+**Use class Syntax to Define a Constructor Function**
+- 11/27/19 - ran great...once I correctly spelled 'Vegetable'!
+
+**Use getters and setters to Control Access to an Object**
+- 11/27/19 - So getter and setter methods are methods stored within the class itself?
+  the lesson didn't make this very clear.  Also referenced 'private' variables without
+  much explanation.  Would have been nice to see how these differ from global and local
+  variables.  I assume that 'private' variables are those that reside within a class
+  object?  What makes them private, are they usable outside of the class?
+
+**Create a Module Script**
+- 11/27/19 - No questions or comments.
+
+**Use export to Share a Code Block**
+- 11/27/19 - No questions or comments.
+
+**Reuse Javascript Code Using import**
+- 11/27/19 - No questions or comments.
+
+**Use * to Import Everything from a File**
+- 11/27/19 - No questions or comments.
+
+**Create an Export Fallback with export default**
+- 11/27/19 - No questions or comments.
+
+**Import a Default Export**
+- 11/27/19 - No questions or comments.
+
+**Create a JavaScript Promise**
+- 11/27/19 - No questions or comments.
+
+**Complete a Promise with resolve and reject**
+- 11/27/19 - Couldn't get this to pass, even though my code was
+  identical to the solution provided.
+
+**Handle a Fulfilled Promise with then**
+- 11/27/19 - No questions or comments.
+
+**Handle a Rejected Promise with catch**
+- 11/27/19 - No questions or comments.
+
+
+
+
+
+
+
+
+**
 
 
 
