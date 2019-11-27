@@ -846,6 +846,12 @@ some key concepts:
 And, more generally, know when to use what tools.  Kind of frustrated
 that things aren't sinking in.  Will keep pressing on...
 
+Again I like today's quote (Encouraging after the frustration over the past couple of days...)
+"Twenty years from now you you will be more disappointed by the things that you didn't do 
+ than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. 
+ Catch the trade winds in your sails."
+-Mark Twain
+
 ## ES6 Challenges
 
 
