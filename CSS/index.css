@@ -1,0 +1,171 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(212, 211, 211);
+  text-align:center;
+}
+
+header {
+  font-family: 'Special Elite', cursive;
+  width: 100%;
+  background-image: linear-gradient(to bottom, rgb(97, 96, 96), rgb(212, 211, 211));
+  padding: 0px;
+  margin: -1% 0 10px 0;
+  float: left;
+}
+
+header ul {
+  list-style-type: none;
+  margin-right: 50px;
+  margin-left: 50px;
+  padding: 0;
+  overflow: hidden;
+  height: 5%;
+}
+
+header ul a {
+  color: black;
+  font-family: 'Special Elite', cursive;
+}
+
+table.center {
+  margin-left: auto; 
+  margin-right: auto;
+  width: 60%;
+}
+
+.nav-right {
+  float: right;
+  padding: 60px 20px 0px 0px;
+  color: black;
+}
+
+.nav-left {
+  float: left;
+  padding-top: 10px;
+  margin-left: 5px;
+}
+
+.nav-left h1 {
+  padding-top: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin-right: 50px;
+  margin-left: 50px;
+  padding: 0;
+  overflow: hidden;
+  height: 5%;
+}
+
+ul li {
+  text-align: left;
+}
+
+ol li {
+  text-align: left;
+}
+
+nav article {
+  background-color: white;
+  border: 2px black solid;
+  border-radius: 5px;
+  font-family: 'Special Elite', cursive;
+  text-align: center;
+  color: black;
+}
+
+.cast {
+  display: flex;
+  flex-direction: column;
+  border: 2px black solid;
+  /* margin-top: 20px; */
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #29773e;
+  width: 30%;
+  float: left;
+}
+
+.fav-episodes {
+  /* display: flex;
+  flex-direction: column; */
+  position: absolute;
+  top: 475px;
+  left: 10;
+  border: 2px black solid;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #032202;
+  color: white;
+  width: 30%;
+  float: left;
+}
+
+.other {
+  /* display: flex;
+  flex-direction: column; */
+  position: absolute;
+  top: 785px;
+  left: 10;
+  border: 2px black solid;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #369457;
+  color: black;
+  width: 30%;
+  float: left;
+}
+
+.image {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 20px 10px 0px 0px;
+  width: 60%;
+}
+
+figcaption {
+  font-size: 12px;
+  text-align: center;
+  font-family: 'Special Elite', cursive;
+}
+
+a {
+  text-align: left;
+  text-decoration: none;
+  color: white;
+  font-family: 'Special Elite', cursive;
+}
+
+section:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+div.column {
+  align-content: center;
+  width: 60%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+footer {
+  position: absolute;
+  top: 1020px;
+  width: 100%;
+  font-family: 'Special Elite', cursive;
+  background-image: linear-gradient(to bottom,rgb(212, 211, 211), rgb(97, 96, 96));
+  text-align: center;
+  height: 50px;
+}
